@@ -46,7 +46,6 @@ A sophisticated Arduino-based environmental monitoring system designed for tradi
 ## Development Team
 
 - Everson Pereira
-- [Your Team Members]
 
 ## Contributing
 
